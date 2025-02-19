@@ -64,8 +64,11 @@ permissions:
 
 jobs:
   deploy:
-    # available images: https://github.com/actions/runner-images#available-images
     runs-on: ubuntu-latest
+    permissions:  # Add this section
+      contents: read
+      pages: write  # This is critical
+      id-token: write # Often needed, good practice to include
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v4
