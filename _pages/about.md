@@ -26,4 +26,4 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am a PhD student at North Carolina State University, Department of Electrical and Computer Engineering. I received bachelor's degree in electrical engineering from Tribhuvan University, Nepal, in 2022. At NC State, I work at the `<a href="https://cui.eecps.com/group/">PowerCI</a>` lab with my advisor  `<a href="https://cui.eecps.com/">Dr. Hantao Cui</a>`.
+I am a PhD student in the Department of Electrical and Computer Engineering at North Carolina State University. I received my bachelor's degree in electrical engineering from Tribhuvan University, Nepal, in 2022. At NC State, I work in the [PowerCI](https://cui.eecps.com/group/) lab with my advisor, [Dr. Hantao Cui](https://cui.eecps.com/). My research focuses on dynamic modeling and electromagnetic transient (EMT) simulation of power systems with large loads andhigh penetration of power-electronics-based loads, such as modern AI hyperscalers.
