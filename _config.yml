@@ -344,7 +344,7 @@ scholar:
   last_name: [Shrestha]
   first_name: [Nabindra, R.]
 
-  style: apa
+  style: ieee
   locale: en
 
   source: /_bibliography/
